@@ -6,7 +6,7 @@ It can be used with any ES/Retropie installation or bundled with an official URC
 You have options:
 - straight up clone your chosen theme to your theme folder (easier to keep up-to-date)
 - download the .zip and extract it in your theme folder
-- download it from the [URCade servers](https://tarsogalvao.ddns.net/urcade-files/)!
+- download it from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
 
 ### .for large screens:
 - [es_theme_urcade_master](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_master) 16:9 large (clean)
