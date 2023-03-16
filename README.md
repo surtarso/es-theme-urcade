@@ -1,5 +1,5 @@
 # URCade Project Emulationstation themes!
-My EmulationStation themes for the [URCade Project](https://solidserverbr.ddns.net/urcade/). They cover almost 200 systems with 4 styles.
+My EmulationStation themes for the [URCade Project](https://surtarso.ddns.net/urcade-files/sdk/doc/01-Introduction-to-URCade.html). They cover almost 200 systems with 4 styles.
 It can be used with any ES/Retropie installation or bundled with an official URCade image. 
 
 ## Installation:
