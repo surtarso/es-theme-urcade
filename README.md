@@ -40,4 +40,6 @@ You have several installation options:
      <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_pi0/atari2600/_inc/background.png" alt="pi0 screenshot">
   </div>
 
+## Contribute
 
+Contributions to this project are welcome! Feel free to open issues or submit pull requests.
