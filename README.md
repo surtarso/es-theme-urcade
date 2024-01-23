@@ -41,6 +41,14 @@ You have several installation options:
      <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_pi0/atari2600/_inc/background.png" alt="pi0 screenshot">
   </div>
 
+### Launch Images
+
+- [launch_images.zip](launch_images.zip): 480p (/opt/retropie/configs/)
+  
+  <div style="width: 200px;"> <!-- Adjust the width as needed -->
+     <img src="https://github.com/surtarso/es-theme-urcade/raw/main/launching.png" alt="launch image screenshot">
+  </div>
+
 ## Contribute
 
 Contributions to this project are welcome! Feel free to open issues or submit pull requests.
