@@ -7,9 +7,11 @@ Welcome to the URCade Project Emulationstation themes repository! These themes a
 
 You have several installation options:
 
-1. **Clone**: Clone your chosen theme directly to your theme folder for easy updates.
-2. **Download ZIP**: Download the theme as a ZIP file and extract it into your theme folder.
-3. **URCade Servers**: Download the theme directly from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
+- **Clone**: Clone your chosen theme directly to your theme folder for easy updates.
+- **Download ZIP**: Download the theme as a ZIP file and extract it into your theme folder.
+- **URCade Servers**: Download the theme directly from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
+
+- (optional) **Launch Images**: Download [launch images](launch_images.zip) and extract to /opt/retropie/configs/
 
 ### For Large Screens
 
