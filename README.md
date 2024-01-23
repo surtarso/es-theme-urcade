@@ -9,7 +9,7 @@ You have several installation options:
 
 - **Download ZIP**: Download the theme as a ZIP file and extract it into your theme folder.
 - **URCade Servers**: Download the theme directly from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
-- (optional) **Launch Images**: Download [launch images](launch_images.zip) and extract to /opt/retropie/configs/
+- **Launch Images**: Download [launch_images.zip](https://github.com/surtarso/es-theme-urcade/raw/main/launch_images.zip) and extract to /opt/retropie/configs/
 
 ### For Large Screens
 
@@ -43,7 +43,7 @@ You have several installation options:
 
 ### Launch Images
 
-- [launch_images.zip](launch_images.zip): 480p (/opt/retropie/configs/)
+- [launch_images.zip](https://github.com/surtarso/es-theme-urcade/raw/main/launch_images.zip): 480p (/opt/retropie/configs/)
   
   <div style="width: 200px;"> <!-- Adjust the width as needed -->
      <img src="https://github.com/surtarso/es-theme-urcade/raw/main/launching.png" alt="launch image screenshot">
