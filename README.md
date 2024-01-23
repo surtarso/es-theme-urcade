@@ -1,6 +1,6 @@
 # URCade Project Emulationstation Themes
 
-Welcome to the URCade Project Emulationstation themes repository! The most complete Emulation Station theme out there! These themes are designed for the [URCade Project](https://surtarso.ddns.net/urcade-files/sdk/doc/01-Introduction-to-URCade.html), covering nearly 200 systems with four unique styles. You can use these themes with any EmulationStation or Retropie installation or bundle them with an official [URCade image](https://surtarso.ddns.net/urcade-files/).
+Welcome to the URCade Project Emulationstation themes repository! The most complete Emulation Station theme out there! These themes are designed for the URCade Project, covering nearly 200 systems with four unique styles. You can use these themes with any EmulationStation or Retropie installation or bundle them with an official [URCade image](https://surtarso.ddns.net/urcade-files/).
 #### This theme was adapted, modified and extended from ['Super Display 3.0' by MrHArias](https://github.com/mrharias/es-theme-superdisplay)
 
 ## Installation Options
