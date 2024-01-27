@@ -1,7 +1,7 @@
 <!--
-theme name:     Super Display
-version         3.0
- MrHArias
+theme name:     URCade (master)
+version         1.0
+Surtarso
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -62,7 +62,7 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.02</fontSize>
-           <scrollSound></scrollSound>
+<!--           <scrollSound></scrollSound>-->
            <alignment>center</alignment>
        </textlist>
    </view>
@@ -76,7 +76,7 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.03</fontSize>
-           <scrollSound></scrollSound>
+<!--           <scrollSound></scrollSound>-->
            <alignment>center</alignment>
        </textlist>
    </view>
@@ -90,7 +90,7 @@ version         3.0
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.025</fontSize>
-           <scrollSound></scrollSound>
+<!--           <scrollSound></scrollSound>-->
            <alignment>center</alignment>
        </textlist>
    </view>
@@ -114,10 +114,10 @@ version         3.0
    </view>
 
 <view name="video">
-    <text name="md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount, md_lastplayed">
+    <text name="md_lbl_rating, md_lbl_developer, md_lbl_publisher, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre, md_playcount">
         <pos>1 1</pos>
     </text>
-    <text name="md_description,md_lbl_players,md_players,md_lbl_lastplayed,md_lastplayed,md_lbl_playcount,md_playcount,md_lbl_genre,md_genre,md_lbl_rating,md_lbl_releasedate,md_releasedate">
+    <text name="md_description,md_lbl_players,md_players,md_lbl_lastplayed,md_lbl_playcount,md_playcount,md_lbl_genre,md_genre,md_lbl_rating,md_lbl_releasedate,md_releasedate">
         <color>FFFFFF</color>
         <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
         <fontSize>0.016</fontSize>
@@ -146,14 +146,6 @@ version         3.0
         <pos>0.01 0.555</pos>
         <size>0.0625 0.025</size>
     </text>
-    <!--<text name="md_lbl_lastplayed">
-     <pos>0.1 0.895</pos>
-     <size>0.075 0.025</size>
-     </text>
-     <text name="md_lastplayed">
-     <pos>0.15 0.895</pos>
-     <size>0.025 0.01</size>
-     </text> -->
     <text name="md_players">
         <pos>0.14 0.505</pos>
         <size>0.0625 0.025</size>
@@ -212,10 +204,10 @@ version         3.0
       </image>
    </view>
     <view name="detailed">
-      <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre,md_lbl_playcount, md_playcount, md_lastplayed">
+      <text name="md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount, md_rating, md_developer, md_publisher, md_genre,md_lbl_playcount, md_playcount">
          <pos>1 1</pos>
       </text>
-      <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount,md_lbl_playcount, md_lastplayed,md_description,md_players,md_releasedate">
+      <text name="md_lbl_rating,md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_lastplayed, md_lbl_playcount,md_lbl_players,md_developer, md_publisher, md_genre, md_playcount,md_lbl_playcount, md_description,md_players,md_releasedate">
          <color>FFFFFF</color>
          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
          <fontSize>0.0195</fontSize>
@@ -258,10 +250,6 @@ version         3.0
        <pos>0.45 0.34</pos>
        <size>0.075 0.025</size>
        </text>
-      <datetime name="md_lastplayed">
-       <pos>0.58 0.35</pos>
-       <size>0.025 0.01</size>
-      </datetime>
       <text name="md_lbl_playcount">
           <pos>0.45 0.39</pos>
           <size>0.09 0.025</size>
@@ -296,13 +284,6 @@ version         3.0
         <path>./_inc/images/frame.png</path>
       </image>
       
-       <!--BOXART--
-       <image name="md_image">
-           <origin>1 1</origin>
-           <pos>0.175 0.55</pos>
-           <maxSize>0.17 5</maxSize>
-       </image> -->
-       
       <image name="logo">
          <origin>5.50000 5.50000</origin>
          <pos>9.21 9.065</pos>
@@ -320,6 +301,7 @@ version         3.0
           <showSnapshotNoVideo>true</showSnapshotNoVideo>
           <showSnapshotDelay>true</showSnapshotDelay>
       </video>
+
       <!--WHEEL-->
       <image name="md_marquee">
           <pos>0.01 0.05</pos>
