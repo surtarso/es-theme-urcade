@@ -19,7 +19,7 @@ You have several installation options:
   <div style="width: 400px;">
     <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_master/atari2600/_inc/background.png" alt="master screenshot">
   </div>
-    OBS: The master theme also contains custom collection themes for: batman castlevania donkeykong finalfantasy frogger mario megaman mortalkombat pacman sonic spaceinvaders starwars tmnt zelda
+    OBS: The master theme also contains custom collection themes for: batman castlevania donkeykong finalfantasy frogger mario megaman mortalkombat pacman sonic spaceinvaders starwars streetfighter tmnt zelda
 ### For Medium/Small Screens
 
 - [es_theme_urcade_pi34_dark](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_pi34_dark): 16:9 medium (b/w pixelated)
