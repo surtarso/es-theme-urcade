@@ -1,3 +1,31 @@
-<h1>URCade Custom Collection Creator</h1><p>The URCade Custom Collection Creator tool simplifies the process of creating custom collections for Emulation Station by scanning your ROM library with a specified search term.</p><h2>Features</h2><ul><li><p><strong>Search and Create:</strong> Scan your ROM library with a search term and generate a <code>custom-yourterm.cfg</code> file for use in Emulation Station's custom collections.</p></li><li><p><strong>Themed Collections:</strong> If you have themed collections, ensure that the collection name matches the theme name. The file <code>custom-starwars.cfg</code> will automatically associate with the "starwars" theme folder name.</p></li><li><p><strong>Multiple Search Terms:</strong> You can use multiple search terms in a single collection, and the tool will add to, rather than replace, the existing collection.</p></li><li><p><strong>GUI or CLI:</strong> The script supports both a graphical user interface (GUI) for interactive configuration and command-line interface (CLI) for automation.</p></li><li><p><strong>Move Files Automatically:</strong> When using the GUI, the script can move files to their correct location within Emulation Station.</p></li></ul><h2>Usage</h2><h3>GUI Mode</h3><ol><li><p>Run the script without any arguments:</p><pre><div class="bg-black rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 dark:bg-token-surface-primary px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span></span><span class="" data-state="closed"><button class="flex gap-1 items-center"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-sm"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill="currentColor" style="--darkreader-inline-fill: currentColor;" data-darkreader-inline-fill=""></path></svg></button></span></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">./U.Create.Collection.sh
-</code></div></div></pre></li><li><p>Follow the on-screen prompts to configure your search parameters.</p></li></ol><h3>CLI Mode</h3><pre><div class="bg-black rounded-md"><div class="flex items-center relative text-gray-200 bg-gray-800 dark:bg-token-surface-primary px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span></span><span class="" data-state="closed"><button class="flex gap-1 items-center"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-sm"><path fill-rule="evenodd" clip-rule="evenodd" d="M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill="currentColor" style="--darkreader-inline-fill: currentColor;" data-darkreader-inline-fill=""></path></svg></button></span></div><div class="p-4 overflow-y-auto"><code class="!whitespace-pre hljs language-bash">./U.Create.Collection.sh <span class="hljs-string">"search term"</span> <span class="hljs-string">"collection name"</span>
-</code></div></div></pre><p>Replace <code>"search term"</code> and <code>"collection name"</code> with your desired parameters. Spaces in search terms should be enclosed in quotes.</p><p><strong>Note:</strong> You need to manually move CLI-generated files to the collections folder (<code>~/.emulationstation/collections/</code>).
+# URCade Custom Collection Creator
+
+The URCade Custom Collection Creator tool simplifies the process of creating custom collections for Emulation Station by scanning your ROM library with a specified search term.
+
+## Features
+
+- **Search and Create:** Scan your ROM library with a search term and generate a `custom-yourterm.cfg` file for use in Emulation Station's custom collections.
+- **Themed Collections:** If you have themed collections, ensure that the collection name matches the theme name. The file `custom-starwars.cfg` will automatically associate with the "starwars" theme folder name.
+- **Multiple Search Terms:** You can use multiple search terms in a single collection, and the tool will add to, rather than replace, the existing collection.
+- **GUI or CLI:** The script supports both a graphical user interface (GUI) for interactive configuration and command-line interface (CLI) for automation.
+- **Move Files Automatically:** When using the GUI, the script can move files to their correct location within Emulation Station.
+
+## Usage
+
+### GUI Mode
+
+1. Run the script without any arguments:
+    ```bash
+    ./U.Create.Collection.sh
+    ```
+
+2. Follow the on-screen prompts to configure your search parameters.
+
+### CLI Mode
+
+```bash
+./U.Create.Collection.sh "search term" "collection name"
+```
+Replace "search term" and "collection name" with your desired parameters. Spaces in search terms should be enclosed in quotes.
+
+Note: You need to manually move CLI-generated files to the collections folder (~/.emulationstation/collections/).
