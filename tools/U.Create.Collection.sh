@@ -4,9 +4,9 @@
 
 #------------------------------- CONFIGS -----------------------------------------
 # Set the default search folder (Change this to the path of your roms root folder)
-search_folder="$HOME/RetroPie/roms"
+search_folder="/home/urcade/RetroPie/roms"
 # Set the default custom collections folder (Change this to the path of your collections root folder)
-destination_folder="$HOME/.emulationstation/collections/"
+destination_folder="/home/urcade/.emulationstation/collections/"
 #---------------------------------------------------------------------------------
 
 #------------------------------ FUNCTIONS ----------------------------------------
