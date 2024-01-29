@@ -1,0 +1,20 @@
+08:50:17.099136 D1X-Rebirth v0.61  Aug 20 2019 08:25:54
+08:50:17.099203 This is a MODIFIED version of Descent, based on Registered v1.5 Jan 5, 1996.
+08:50:17.099235 Copyright (c) 1994 Parallax Software Corporation
+08:50:17.099266 DESCENT is a trademark of Interplay Productions, Inc.
+08:50:17.099296 Copyright (C) 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+08:50:17.171927 Using SDL_mixer library v2.0.4
+08:50:17.590190 sdl-joystick: 2 joysticks
+08:50:17.649607 sdl-joystick 0: DragonRise Inc.   Generic   USB  Joystick  
+08:50:17.649894 sdl-joystick: 5 axes
+08:50:17.650146 sdl-joystick: 12 buttons
+08:50:17.650389 sdl-joystick: 1 hats
+08:50:17.650640 sdl-joystick: 5 axes (total)
+08:50:17.650880 sdl-joystick: 16 buttons (total)
+08:50:17.713545 sdl-joystick 1: DragonRise Inc.   Generic   USB  Joystick  
+08:50:17.713832 sdl-joystick: 5 axes
+08:50:17.714085 sdl-joystick: 12 buttons
+08:50:17.714326 sdl-joystick: 1 hats
+08:50:17.714580 sdl-joystick: 10 axes (total)
+08:50:17.714820 sdl-joystick: 32 buttons (total)
+08:50:17.815872 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off

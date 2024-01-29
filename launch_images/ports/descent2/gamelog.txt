@@ -1,0 +1,28 @@
+18:51:38.921222 D2X-Rebirth v0.61  Aug 20 2019 08:30:17
+18:51:38.921296 This is a MODIFIED version of Descent 2, based on Full Version v1.2.
+18:51:38.921331 Copyright (C) 1994, 1995 Parallax Software Corporation
+18:51:38.921364 DESCENT is a trademark of Interplay Productions, Inc.
+18:51:38.921397 Copyright (C) 1999 Peter Hawkins, 2002 Bradley Bell, 2005-2013 Christian Beckhaeuser, 2013-2017 Kp
+18:51:39.053589 Using SDL_mixer library v2.0.4
+18:51:39.648617 sdl-joystick: 2 joysticks
+18:51:39.708531 sdl-joystick 0: DragonRise Inc.   Generic   USB  Joystick  
+18:51:39.708819 sdl-joystick: 5 axes
+18:51:39.709072 sdl-joystick: 12 buttons
+18:51:39.709318 sdl-joystick: 1 hats
+18:51:39.709572 sdl-joystick: 5 axes (total)
+18:51:39.709894 sdl-joystick: 16 buttons (total)
+18:51:39.768580 sdl-joystick 1: DragonRise Inc.   Generic   USB  Joystick  
+18:51:39.768865 sdl-joystick: 5 axes
+18:51:39.769116 sdl-joystick: 12 buttons
+18:51:39.769357 sdl-joystick: 1 hats
+18:51:39.769613 sdl-joystick: 10 axes (total)
+18:51:39.769854 sdl-joystick: 32 buttons (total)
+18:51:39.854699 DXX-Rebirth: OpenGL: disabling automatic GL sync since VSync is turned off
+18:51:39.926873 Can't open movielib <intro-h.mvl>: (null)
+18:51:39.927123 Can't open movielib <intro-l.mvl>: (null)
+18:51:39.927359 Can't open movielib <other-h.mvl>: (null)
+18:51:39.927593 Can't open movielib <other-l.mvl>: (null)
+18:51:39.927829 Can't open movielib <robots-h.mvl>: (null)
+18:51:39.928073 Can't open movielib <robots-l.mvl>: (null)
+18:51:39.929321 Failed to open movie <intro.mve>: (null)
+18:51:39.929467 Failed to open movie <titles.mve>: (null)
