@@ -9,7 +9,7 @@ You have several installation options:
 
 - **Download ZIP**: Download as a ZIP, extract and move your theme of choice into the themes folder.
 - **URCade Servers**: Download individual themes directly from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
-- **Launch Images**: Download [launch_images.zip](https://github.com/surtarso/es-theme-urcade/raw/main/launch_images.zip) and extract to /opt/retropie/configs/
+- **Launch Images**: Download [launch_images.zip](https://github.com/surtarso/es-theme-urcade/tree/main/launch_images) and extract to /opt/retropie/configs/
 - **Tools**: Use our [custom collection creator](https://github.com/surtarso/es-theme-urcade/tree/main/tools) tool to easily map your roms to our themed collections, or create any list you desire!
 
 ### For Large Screens
