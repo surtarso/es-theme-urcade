@@ -17,7 +17,7 @@ You have several installation options:
 - [es_theme_urcade_master](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_master): 16:9 large (clean)
   
   <div style="width: 400px;">
-    <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_master/atari2600/_inc/background.png" alt="master screenshot">
+    <img src="es_theme_urcade_master/atari2600/_inc/background.png" alt="master screenshot">
   </div>
     OBS: The master theme also contains custom collection themes for: batman castlevania donkeykong finalfantasy frogger mario megaman mortalkombat pacman sonic spaceinvaders starwars streetfighter tmnt zelda
 ### For Medium/Small Screens
@@ -25,13 +25,13 @@ You have several installation options:
 - [es_theme_urcade_pi34_dark](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_pi34_dark): 16:9 medium (b/w pixelated)
   
   <div style="width: 400px;">
-    <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_pi34_dark/atari2600/_inc/background.png" alt="pi34-dark screenshot">
+    <img src="es_theme_urcade_pi34_dark/atari2600/_inc/background.png" alt="pi34-dark screenshot">
   </div>
 
 - [es_theme_urcade_pi34](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_pi34): 16:9 medium (pixelated)
   
   <div style="width: 400px;"> <!-- Adjust the width as needed -->
-      <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_pi34/atari2600/_inc/background.png" alt="pi34 screenshot">
+      <img src="es_theme_urcade_pi34/atari2600/_inc/background.png" alt="pi34 screenshot">
   </div>
 
 ### For Handhelds
@@ -39,7 +39,7 @@ You have several installation options:
 - [es_theme_urcade_pi0](https://github.com/surtarso/es-theme-urcade/tree/main/es_theme_urcade_pi0): 4:6 small (dirt small)
   
   <div style="width: 200px;"> <!-- Adjust the width as needed -->
-     <img src="https://github.com/surtarso/es-theme-urcade/raw/main/es_theme_urcade_pi0/atari2600/_inc/background.png" alt="pi0 screenshot">
+     <img src="es_theme_urcade_pi0/atari2600/_inc/background.png" alt="pi0 screenshot">
   </div>
 
 ### Universal Launch Images
@@ -47,7 +47,7 @@ You have several installation options:
 - [launch_images.zip](https://github.com/surtarso/es-theme-urcade/raw/main/launch_images.zip): 480p (/opt/retropie/configs/)
   
   <div style="width: 200px;"> <!-- Adjust the width as needed -->
-     <img src="https://github.com/surtarso/es-theme-urcade/raw/main/launching.png" alt="launch image screenshot">
+     <img src="launch_images/atari2600/launching.png" alt="launch image screenshot">
   </div>
 
 ## Contribute
