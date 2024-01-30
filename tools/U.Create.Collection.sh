@@ -1,12 +1,13 @@
 #!/bin/bash
 # URCade Custom Collection Creator
-# Author: Tarso Galvão - Version: 1.0 Date: Fri Jan 26 10:45:05 AM -03 2024
+# Author: Tarso Galvão - Date: Fri Jan 26 10:45:05 AM -03 2024
+# Version: 1.0
 
 #------------------------------- CONFIGS -----------------------------------------
 # Set the default search folder (Change this to the path of your roms root folder)
-search_folder="/home/urcade/RetroPie/roms"
+search_folder="$HOME/RetroPie/roms/"
 # Set the default custom collections folder (Change this to the path of your collections root folder)
-destination_folder="/home/urcade/.emulationstation/collections/"
+destination_folder="$HOME/.emulationstation/collections/"
 #---------------------------------------------------------------------------------
 
 #------------------------------ FUNCTIONS ----------------------------------------
