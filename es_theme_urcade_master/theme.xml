@@ -62,7 +62,7 @@ Surtarso
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.02</fontSize>
-<!--           <scrollSound></scrollSound>-->
+           <scrollSound>./_inc/click.mp3</scrollSound>
            <alignment>center</alignment>
        </textlist>
    </view>
@@ -76,7 +76,7 @@ Surtarso
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.03</fontSize>
-<!--           <scrollSound></scrollSound>-->
+           <scrollSound>./_inc/click.mp3</scrollSound>
            <alignment>center</alignment>
        </textlist>
    </view>
@@ -90,7 +90,7 @@ Surtarso
            <secondaryColor>eaeaea</secondaryColor>
            <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
            <fontSize>0.025</fontSize>
-<!--           <scrollSound></scrollSound>-->
+           <scrollSound>./_inc/click.mp3</scrollSound>
            <alignment>center</alignment>
        </textlist>
    </view>
