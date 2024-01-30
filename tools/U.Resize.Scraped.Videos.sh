@@ -1,9 +1,8 @@
 #!/bin/bash
 
-# Batch Operator for scrapped videos
-# To be run inside ROMS root folder.
-# Default is: ~/Retropie/roms/ (+[system]/media/videos)
-# Tarso Galvao 28/11/2021 BR
+# Batch Operator to resize scrapped videos
+# Tarso Galvao Tue Jan 30 03:04:16 PM -03 2024
+# Version 1.0
 
 # Function to display resolution presets
 display_presets() {
