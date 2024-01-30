@@ -44,7 +44,7 @@ You have several installation options:
 
 ### Universal Launch Images
 
-- [launch_images.zip](https://github.com/surtarso/es-theme-urcade/raw/main/launch_images.zip): 480p (/opt/retropie/configs/)
+- [launch images](https://github.com/surtarso/es-theme-urcade/tree/main/launch_images): 480p (/opt/retropie/configs/)
   
   <div style="width: 200px;"> <!-- Adjust the width as needed -->
      <img src="launch_images/atari2600/launching.png" alt="launch image screenshot">
