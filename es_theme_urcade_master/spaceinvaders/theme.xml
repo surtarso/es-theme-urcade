@@ -23,7 +23,7 @@
             <origin>0 0</origin>
             <pos>0 0</pos>
             <size>1 1</size>
-            <path>./../_inc/images/crt.png</path>
+            <path>./_inc/crt.png</path>
         </image>
     </view>
     
