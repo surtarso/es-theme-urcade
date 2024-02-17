@@ -1,7 +1,8 @@
 <!--
 theme name:     URCade (master)
-version         1.0
-Surtarso
+version:         1.0
+Author: Surtarso
+Forked from: mharias
 -->
 
 <?xml version="1.0" encoding="UTF-8"?>
@@ -14,7 +15,7 @@ Surtarso
         <type>vertical</type>
         <pos>0 0.020</pos>
         <size>0.200 0.890</size>
-        <logoScale>1.1</logoScale>
+        <logoScale>1.15</logoScale>
         <logoSize>0.15 0.180</logoSize>
         <color>00000000</color>
         <maxLogoCount>7</maxLogoCount>
@@ -23,7 +24,7 @@ Surtarso
       <text name="systemInfo">
          <pos>0.4 0.02</pos>
          <backgroundColor>00000000</backgroundColor>
-         <color>FFFFFF</color>
+         <color>777777</color>
          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
 	 <fontSize>0.025</fontSize>
     </text>
@@ -198,8 +199,8 @@ Surtarso
          <maxSize>0.24 0.34</maxSize>
       </image>
       <image name="md_marquee">
-          <pos>0.01 0.25</pos>
-          <origin>0 0</origin>
+          <origin>.5 .5</origin>
+          <pos>0.86 0.82</pos>
           <maxSize>0.17 0.1</maxSize>
       </image>
    </view>
@@ -285,10 +286,19 @@ Surtarso
       </image>
       
       <image name="logo">
-         <origin>5.50000 5.50000</origin>
-         <pos>9.21 9.065</pos>
-         <maxSize>0.12 0.12</maxSize>
+          <visible>false</visible>
       </image>
+
+      <!--SYSTEM NAME-->
+      <text name="logoText" extra="true">
+          <pos>0.355 0.755</pos>
+          <origin>0 0</origin>
+          <fontPath>./_inc/fonts/OpenSans-Bold.ttf</fontPath>
+          <fontSize>0.025</fontSize>
+          <color>8e8e8e</color>
+          <forceUppercase>true</forceUppercase>
+          <text>${system.fullName}</text>
+      </text>
         
       <!--SNAP-->
       <video name="md_video">
