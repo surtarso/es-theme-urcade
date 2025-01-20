@@ -1,6 +1,6 @@
 # URCade Project Emulationstation Themes
 
-Welcome to the URCade Project Emulationstation themes repository! One of the most complete Emulation Station themes out there! These themes are designed for the URCade Project, covering nearly 200 systems with four unique styles. You can use these themes with any EmulationStation or Retropie installation or bundle them with an official [URCade image](https://surtarso.ddns.net/urcade-files/).
+Welcome to the URCade Project Emulationstation themes repository! One of the most complete Emulation Station themes out there! These themes are designed for the URCade Project, covering nearly 200 systems with four unique styles. You can use these themes with any EmulationStation or Retropie installation or bundle them with an official [URCade image](https://urcade-files.ddns.net/).
 
 <div style="width: 400px;">
     <img src="sshot.png" alt="master theme screenshot">
@@ -13,7 +13,7 @@ Welcome to the URCade Project Emulationstation themes repository! One of the mos
 You have several installation options:
 
 - **Download ZIP**: Download as a ZIP, extract and move your theme of choice into the themes folder.
-- **URCade Servers**: Download individual themes directly from the [URCade servers](https://surtarso.ddns.net/urcade-files/)!
+- **URCade Servers**: Download individual themes directly from the [URCade servers](https://urcade-files.ddns.net/)!
 - **Launch Images**: Download [launch images](https://github.com/surtarso/es-theme-urcade/tree/main/launch_images) and copy to /opt/retropie/configs/
 - **Tools**: Use our [custom collection creator](https://github.com/surtarso/es-theme-urcade/tree/main/tools) tool to easily map your roms to our themed collections, or create any list you desire!
 
