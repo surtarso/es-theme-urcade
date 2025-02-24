@@ -14,6 +14,7 @@ You have several installation options:
 - **URCade Servers**: Download individual themes directly from the [URCade servers](https://urcade-files.ddns.net/)!
 - **Launch Images**: Download [launch images](https://github.com/surtarso/es-theme-urcade/tree/main/launch_images) and copy to /opt/retropie/configs/
 - **Tools**: Use our [custom collection creator](https://github.com/surtarso/es-theme-urcade/tree/main/tools) tool to easily map your roms to our themed collections, or create any list you desire!
+- **Clone**: Clone this repo and get all 4 theme variants, tools, launch images, boot splashes and templates to add new theme pages.
 
 ### For Large Screens
 
